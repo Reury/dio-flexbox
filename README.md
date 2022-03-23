@@ -1,2 +1,7 @@
-# dio-flexbox
-repositorio onde foram praticadas as aulas de flexbox que fiz na dio 
+# project flexbox DIO
+
+
+foi alterado os arquivos que fiz e baixado e movido do clone de repositorio que fiz da karen santos
+irei modificar os arquivos para entregar o projeto
+
+
